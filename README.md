@@ -10,20 +10,9 @@
 - 🔭 I’m currently working on **MERN stack applications** and **Web Security Research**
 - 🌱 I’m learning **Cybersecurity, Bug Bounty, and Ethical Hacking**
 - 👯 I’m looking to collaborate on **full-stack projects and security-related research**
-- 💬 Ask me about **MERN Stack, DSA, and Web Application Security**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thecyberdevvarun) | [Twitter](https://x.com/varun_yadav01) | [Portfolio](https://thecyberdevvarun.vercel.app)
 - ⚡ Fun fact: I love **solving complex coding challenges and exploring security vulnerabilities!**
-
----
-
-## ❤️ DSA Profile
-
-<p align="left"> 
-<img src="lc.png" width="50" height="50">
-<img src="gfg.png" width="50" height="50">
-<img src="codingNinjas.png" width="50" height="50">
-</p> 
-
+  
 ---
 
 ## 💻Use to Code
@@ -120,41 +109,38 @@
 
 | Beginner                    | Intermediate                    | Advanced                    |
 |-----------------------------|---------------------------------|-----------------------------|
-| 🛒 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System) | ✍️ TextUtils [**🔗**](https://github.com/Varunyadavgithub/TextUtils) | 📚 BookStore [**🔗**](https://github.com/Varunyadavgithub/BookStore-App)
-| 🧠 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) | ⚙️ CRUD API [**🔗**](https://github.com/Varunyadavgithub/CRUD-API) | 🛍️ EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
-| 🕊️ Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🗂️ CRUD Application [**🔗**](https://github.com/Varunyadavgithub/CRUD-app) | 💻 AlphaDev [**🔗**](https://github.com/Varunyadavgithub/AlphaDev)
-| 🎮 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | ✅ Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🧬 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
-| 🌿 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/Varunyadavgithub/Chrome-Extensions) | 📚 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
-| 🗓️ My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | ⏰ Reminder App [**🔗**](https://github.com/Varunyadavgithub/ReminderApp) | 🛒 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
-| 🚀 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System) | 🤖 NovaCraft-AI [**🔗**](https://github.com/Varunyadavgithub/NovaCraft-AI) | 🛠️ WRL Tool Report [**🔗**](https://github.com/Varunyadavgithub/WRL-Dashboard)
-| ✊ Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/) | | 🪪 WRL Visitorpass [**🔗**](https://github.com/Varunyadavgithub/WRL-Visitorpass)
-| 🧮 My Calculator [**🔗**](https://github.com/Varunyadavgithub/My-Calculator/) |  
-| ⚖️ Basal Metabolic Rate Calculator [**🔗**](https://github.com/Varunyadavgithub/BMR-Calculator/) |  
-| 📊 Statistics Wizard [**🔗**](https://github.com/Varunyadavgithub/Statistics-Wizard/) |  
-| ⚖️ BMI Calculator [**🔗**](https://github.com/Varunyadavgithub/BMI-Calculator/) |  
-| 👨‍💻 My Portfolio [**🔗**](https://github.com/Varunyadavgithub/Portfolio/) |  
-| 💱 Currency Converter [**🔗**](https://github.com/Varunyadavgithub/Currency-Converter/) |  
-| 🧠 Mind Bubble Game [**🔗**](https://github.com/Varunyadavgithub/Mind-Bubble-Game/) |  
-| 🔗 LinkedIn UI Clone [**🔗**](https://github.com/Varunyadavgithub/LinkedIn-UI-Clone)
+| 🛒 Supermarket Billing System [**🔗**](https://github.com/thecyberdevvarun//Supermarket_Billing_System) | ✍️ TextUtils [**🔗**](https://github.com/thecyberdevvarun/TextUtils) | 📚 BookStore [**🔗**](https://github.com/thecyberdevvarun/BookStore-App)
+| 🧠 AI-Desktop-Assistant [**🔗**](https://github.com/thecyberdevvarun/AI-Desktop-Assistant/) | ⚙️ CRUD API [**🔗**](https://github.com/thecyberdevvarun/CRUD-API) | 🛍️ EasyShoppe [**🔗**](https://github.com/thecyberdevvarun/EasyShoppe)
+| 🕊️ Tribute Website [**🔗**](https://github.com/thecyberdevvarun/A.P.J-Abdul-Kalam-Tribute-website) | 🗂️ CRUD Application [**🔗**](https://github.com/thecyberdevvarun/CRUD-app) | 💻 AlphaDev [**🔗**](https://github.com/thecyberdevvarun/AlphaDev)
+| 🎮 Tic-Tac-Toe Game [**🔗**](https://github.com/thecyberdevvarun/Tic-tac-toe/) | ✅ Task-manager [**🔗**](https://github.com/thecyberdevvarun/Assignment-Task-manager) | 🧬 AlphaAI [**🔗**](https://github.com/thecyberdevvarun/AlphaAI)
+| 🌿 Parallax Nature Website [**🔗**](https://github.com/thecyberdevvarun/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/thecyberdevvarun/Chrome-Extensions) | 📚 LearnHub [**🔗**](https://github.com/thecyberdevvarun/LearnHub)
+| 🗓️ My Mini Calendar [**🔗**](https://github.com/thecyberdevvarun/My-Mini-Calendar/) | ⏰ Reminder App [**🔗**](https://github.com/thecyberdevvarun/ReminderApp) | 🛒 ShopSphere [**🔗**](https://github.com/thecyberdevvarun/ShopSphere)
+| 🚀 Our Solar System [**🔗**](https://github.com/thecyberdevvarun/Solar-System) | 🤖 NovaCraft-AI [**🔗**](https://github.com/thecyberdevvarun/NovaCraft-AI) | 🛠️ WRL Tool Report [**🔗**](https://github.com/thecyberdevvarun/WRL-Dashboard)
+| ✊ Stone Paper & Scissor Game [**🔗**](https://github.com/thecyberdevvarun/Stone-Paper-Scissor/) | | 🪪 WRL Visitorpass [**🔗**](https://github.com/thecyberdevvarun/WRL-Visitorpass)
+| 🧮 My Calculator [**🔗**](https://github.com/thecyberdevvarun/My-Calculator/) |  
+| ⚖️ Basal Metabolic Rate Calculator [**🔗**](https://github.com/thecyberdevvarun/BMR-Calculator/) |  
+| 📊 Statistics Wizard [**🔗**](https://github.com/thecyberdevvarun/Statistics-Wizard/) |  
+| ⚖️ BMI Calculator [**🔗**](https://github.com/thecyberdevvarun/BMI-Calculator/) |  
+| 👨‍💻 My Portfolio [**🔗**](https://github.com/thecyberdevvarun/Portfolio/) |  
+| 💱 Currency Converter [**🔗**](https://github.com/thecyberdevvarun/Currency-Converter/) |  
+| 🧠 Mind Bubble Game [**🔗**](https://github.com/thecyberdevvarun/Mind-Bubble-Game/) |  
+| 🔗 LinkedIn UI Clone [**🔗**](https://github.com/thecyberdevvarun/LinkedIn-UI-Clone)
 
 🚀 *Many more exciting projects in progress...*  
 
 ---
-## 🔥 GitHub Streak 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Varunyadavgithub&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 📊 Github Stats  
 
-| <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Varunyadavgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Varun's github stats" /></a> | <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadavgithub&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/thecyberdevvarun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thecyberdevvarun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Varun's github stats" /></a> | <a href="https://github.com/thecyberdevvarun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberdevvarun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 🚀 Valuable Learning Resources  
 
-| <a href="https://github.com/Varunyadavgithub/Dev-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=Dev-Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=DSA-Journey&theme=buefy" /></a> |
+| <a href="https://github.com/thecyberdevvarun/Dev-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thecyberdevvarun&repo=Dev-Journey&theme=buefy" /></a> | <a href="https://github.com/thecyberdevvarun/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thecyberdevvarun&repo=DSA-Journey&theme=buefy" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/Varunyadavgithub/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=WebPentesting_Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/JavaScript-Interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=JavaScript-Interview&theme=buefy" /></a> |
+| <a href="https://github.com/thecyberdevvarun/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thecyberdevvarun&repo=WebPentesting_Journey&theme=buefy" /></a> | <a href="https://github.com/thecyberdevvarun/JavaScript-Interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thecyberdevvarun&repo=JavaScript-Interview&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 ## 📫 Connect With Me  
